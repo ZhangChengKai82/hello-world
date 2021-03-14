@@ -1,2 +1,2 @@
 # hello-world
-learn to create
+I use this repository to learn to use Github
